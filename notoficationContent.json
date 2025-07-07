@@ -1,0 +1,23 @@
+{
+  "scrollReminder": {
+    "title": "Mindful Scroll Check",
+    "messages": [
+      {
+        "body": "🧘‍♂️ Take a moment to check in with yourself. Are you scrolling mindfully?",
+        "sound": "default"
+      },
+      {
+        "body": "📱 Pause and breathe. Is this scroll serving your wellbeing?",
+        "sound": "default"
+      },
+      {
+        "body": "🌟 Remember your intention. Are you scrolling with purpose?",
+        "sound": "default"
+      },
+      {
+        "body": "💭 Quick check-in: How is your scrolling affecting your mood?",
+        "sound": "default"
+      }
+    ]
+  }
+} 
