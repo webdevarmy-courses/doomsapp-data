@@ -1,0 +1,104 @@
+{
+  "tasks": [
+    {
+      "id": "coldShower",
+      "name": "Mindful Cold Shower",
+      "category": "High Energy",
+      "frequency": "3x/week",
+      "description": "Wake up your senses with presence",
+      "xp": 8,
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/preBuiltTasks/coldShower.png",
+      "tips": "Start with 30 seconds of cold water at the end of your shower. Focus on your breath and embrace the sensation mindfully."
+    },
+    {
+      "id": "flowMovement",
+      "name": "Flow Movement",
+      "category": "High Energy",
+      "frequency": "Daily",
+      "description": "Move mindfully with yoga or stretching",
+      "xp": 5,
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/preBuiltTasks/flowMovement.png",
+      "tips": "Spend 10-15 minutes moving your body with intention. Focus on the connection between breath and movement."
+    },
+    {
+      "id": "readReflect",
+      "name": "Read & Reflect",
+      "category": "Low Energy",
+      "frequency": "Daily",
+      "description": "Spend 30 focused minutes reading",
+      "xp": 6,
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/preBuiltTasks/readReflect.png",
+      "tips": "Choose a book that inspires or educates you. Read without distractions and reflect on what you've learned."
+    },
+    {
+      "id": "stillnessBreak",
+      "name": "Stillness Break",
+      "category": "Low Energy",
+      "frequency": "2x/week",
+      "description": "Sit in silence, let thoughts pass",
+      "xp": 7,
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/preBuiltTasks/stillnessBreak.png",
+      "tips": "Find a quiet space and sit comfortably for 10-15 minutes. Observe your thoughts without judgment."
+    },
+    {
+      "id": "boxBreathing",
+      "name": "Deep Box Breathing",
+      "category": "Low Energy",
+      "frequency": "Daily",
+      "description": "Practice 4-4-4-4 box breathing",
+      "xp": 4,
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/preBuiltTasks/boxBreathing.png",
+      "tips": "Inhale for 4 counts, hold for 4, exhale for 4, hold for 4. Repeat this cycle 10 times with full attention."
+    },
+    {
+      "id": "natureWalk",
+      "name": "Soulful Nature Walk",
+      "category": "Spiritual",
+      "frequency": "Weekly",
+      "description": "Recharge in nature with intention",
+      "xp": 10,
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/preBuiltTasks/soulfulNatureWalk.png",
+      "tips": "Walk slowly in nature for 20-30 minutes. Notice the sounds, smells, and sights around you with full presence."
+    },
+    {
+      "id": "sunlightRitual",
+      "name": "Sunlight Ritual",
+      "category": "Wellness",
+      "frequency": "Daily",
+      "description": "Get 10 minutes of morning sunlight",
+      "xp": 3,
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/preBuiltTasks/sunlightRitual.png",
+      "tips": "Step outside within the first hour of waking. Feel the warmth on your skin and set an intention for the day."
+    },
+    {
+      "id": "mindfulPushups",
+      "name": "Mindful Push-ups",
+      "category": "Fitness",
+      "frequency": "3x/week",
+      "description": "Strengthen with awareness",
+      "xp": 5,
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/preBuiltTasks/mindfulPushups.png",
+      "tips": "Do 10-20 push-ups with complete focus on form and breath. Quality over quantity, presence over performance."
+    },
+    {
+      "id": "digitalDetox",
+      "name": "Mini Digital Detox",
+      "category": "Wellness",
+      "frequency": "2x/week",
+      "description": "Stay off-screen for 30+ mins",
+      "xp": 6,
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/preBuiltTasks/digitalDetox.png",
+      "tips": "Turn off all devices for at least 30 minutes. Use this time for reflection, journaling, or being present."
+    },
+    {
+      "id": "learnGrow",
+      "name": "Learn & Grow",
+      "category": "Cognitive",
+      "frequency": "Weekly",
+      "description": "Spend 30 minutes learning something new",
+      "xp": 8,
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/preBuiltTasks/learnNgrow.png",
+      "tips": "Choose a topic that genuinely interests you. Take notes and reflect on how this knowledge can enhance your life."
+    }
+  ]
+} 
