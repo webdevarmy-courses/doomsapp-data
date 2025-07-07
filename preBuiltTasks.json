@@ -7,7 +7,7 @@
       "frequency": "3x/week",
       "description": "Wake up your senses with presence",
       "xp": 8,
-      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/preBuiltTasks/coldShower.png",
+      "imageUrl": "https://github.com/webdevarmy-courses/doomsapp-images/blob/main/coldShower.png?raw=true",
       "tips": "Start with 30 seconds of cold water at the end of your shower. Focus on your breath and embrace the sensation mindfully."
     },
     {
@@ -17,7 +17,7 @@
       "frequency": "Daily",
       "description": "Move mindfully with yoga or stretching",
       "xp": 5,
-      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/preBuiltTasks/flowMovement.png",
+      "imageUrl": "https://github.com/webdevarmy-courses/doomsapp-images/blob/main/flowMovement.png?raw=true",
       "tips": "Spend 10-15 minutes moving your body with intention. Focus on the connection between breath and movement."
     },
     {
@@ -27,7 +27,7 @@
       "frequency": "Daily",
       "description": "Spend 30 focused minutes reading",
       "xp": 6,
-      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/preBuiltTasks/readReflect.png",
+      "imageUrl": "https://github.com/webdevarmy-courses/doomsapp-images/blob/main/readReflect.png?raw=true",
       "tips": "Choose a book that inspires or educates you. Read without distractions and reflect on what you've learned."
     },
     {
@@ -37,7 +37,7 @@
       "frequency": "2x/week",
       "description": "Sit in silence, let thoughts pass",
       "xp": 7,
-      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/preBuiltTasks/stillnessBreak.png",
+      "imageUrl": "https://github.com/webdevarmy-courses/doomsapp-images/blob/main/stillnessBreak.png?raw=true",
       "tips": "Find a quiet space and sit comfortably for 10-15 minutes. Observe your thoughts without judgment."
     },
     {
@@ -47,7 +47,7 @@
       "frequency": "Daily",
       "description": "Practice 4-4-4-4 box breathing",
       "xp": 4,
-      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/preBuiltTasks/boxBreathing.png",
+      "imageUrl": "https://github.com/webdevarmy-courses/doomsapp-images/blob/main/boxBreathing.png?raw=true",
       "tips": "Inhale for 4 counts, hold for 4, exhale for 4, hold for 4. Repeat this cycle 10 times with full attention."
     },
     {
@@ -57,7 +57,7 @@
       "frequency": "Weekly",
       "description": "Recharge in nature with intention",
       "xp": 10,
-      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/preBuiltTasks/soulfulNatureWalk.png",
+      "imageUrl": "https://github.com/webdevarmy-courses/doomsapp-images/blob/main/soulfulNatureWalk.png?raw=true",
       "tips": "Walk slowly in nature for 20-30 minutes. Notice the sounds, smells, and sights around you with full presence."
     },
     {
@@ -67,7 +67,7 @@
       "frequency": "Daily",
       "description": "Get 10 minutes of morning sunlight",
       "xp": 3,
-      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/preBuiltTasks/sunlightRitual.png",
+      "imageUrl": "https://github.com/webdevarmy-courses/doomsapp-images/blob/main/sunlightRitual.png?raw=true",
       "tips": "Step outside within the first hour of waking. Feel the warmth on your skin and set an intention for the day."
     },
     {
@@ -77,7 +77,7 @@
       "frequency": "3x/week",
       "description": "Strengthen with awareness",
       "xp": 5,
-      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/preBuiltTasks/mindfulPushups.png",
+      "imageUrl": "https://github.com/webdevarmy-courses/doomsapp-images/blob/main/mindfulPushups.png?raw=true",
       "tips": "Do 10-20 push-ups with complete focus on form and breath. Quality over quantity, presence over performance."
     },
     {
@@ -87,7 +87,7 @@
       "frequency": "2x/week",
       "description": "Stay off-screen for 30+ mins",
       "xp": 6,
-      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/preBuiltTasks/digitalDetox.png",
+      "imageUrl": "https://github.com/webdevarmy-courses/doomsapp-images/blob/main/digitalDetox.png?raw=true",
       "tips": "Turn off all devices for at least 30 minutes. Use this time for reflection, journaling, or being present."
     },
     {
@@ -97,7 +97,7 @@
       "frequency": "Weekly",
       "description": "Spend 30 minutes learning something new",
       "xp": 8,
-      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/preBuiltTasks/learnNgrow.png",
+      "imageUrl": "https://github.com/webdevarmy-courses/doomsapp-images/blob/main/learnNgrow.png?raw=true",
       "tips": "Choose a topic that genuinely interests you. Take notes and reflect on how this knowledge can enhance your life."
     }
   ]
